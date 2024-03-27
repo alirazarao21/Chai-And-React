@@ -1,2 +1,2 @@
-# Chai-And-React
+# React
 React course with Hitesh ch
